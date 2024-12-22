@@ -1,4 +1,4 @@
-package servicelog.log.service_log;
+package servicelog.log.service_log.unittest;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.BeforeEach;
